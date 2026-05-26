@@ -9,21 +9,21 @@ const Skills = () => {
   const skillCategories = [
     {
       title: "Languages",
-      skills: ["Python", "Java", "HTML/CSS", "JavaScript", "SQL", "TypeScript", "R", "VBA", "Latex"],
+      skills: ["Python", "Java", "JavaScript", "TypeScript", "SQL", "HTML/CSS", "TailwindCSS", "Go", "R", "VBA"],
       icon: Code,
       color: "from-blue-400 to-purple-500",
       bgHover: "hover:border-blue-500/50"
     },
     {
-      title: "Developer Tools",
-      skills: ["Linux", "PyCharm", "Jira", "PowerBI", "Tableau", "WindMill", "GraphQL", "Apache Spark", "Kafka", "Airflow", "Flink"],
+      title: "Backend & Data",
+      skills: ["GraphQL", "PostgreSQL", "MySQL", "Snowflake", "Databricks", "Apache Kafka", "Apache Spark", "Airflow", "Flink"],
       icon: Terminal,
       color: "from-green-400 to-emerald-600",
       bgHover: "hover:border-green-500/50"
     },
     {
       title: "Frameworks & Libraries",
-      skills: ["React.js", "Git", "Jupyter Notebook", "Anaconda", "Postman", "Pytorch", "Tensorflow", "Pandas", "Matplotlib", "Flask"],
+      skills: ["Django", "React.js", "FastAPI", "Flask", "Node.js", "GatsbyJS", "NumPy", "Pandas", "PyTorch", "React Bootstrap", "Matplotlib", "TensorFlow"],
       icon: Layers,
       color: "from-orange-400 to-yellow-500",
       bgHover: "hover:border-orange-500/50"
