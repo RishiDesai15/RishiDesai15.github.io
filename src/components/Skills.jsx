@@ -9,7 +9,7 @@ const Skills = () => {
   const skillCategories = [
     {
       title: "Languages",
-      skills: ["Python", "Java", "JavaScript", "TypeScript", "SQL", "HTML/CSS", "TailwindCSS", "Go", "R", "VBA"],
+      skills: ["Python", "Java", "JavaScript", "TypeScript", "SQL", "HTML/CSS", "TailwindCSS", "Go", "C+", "R"],
       icon: Code,
       color: "from-blue-400 to-purple-500",
       bgHover: "hover:border-blue-500/50"
