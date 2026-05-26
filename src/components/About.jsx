@@ -41,7 +41,7 @@ const About = () => {
             delay: 0.2
           }} className="relative group">
               <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-green-400 rounded-2xl blur-xl opacity-30 group-hover:opacity-50 transition-opacity duration-300"></div>
-              <img alt="Rishi Desai - Data Engineer portrait" className="relative rounded-2xl w-full h-auto shadow-2xl transform group-hover:scale-[1.02] transition-transform duration-300" src="https://horizons-cdn.hostinger.com/7a5ff1ea-2df9-4130-8f35-e960a9420c3c/658580b5504764c237dc0d4898868c1f.jpg" />
+              <img alt="Rishi Desai - Software Engineer portrait" className="relative rounded-2xl w-full h-auto shadow-2xl transform group-hover:scale-[1.02] transition-transform duration-300" src="https://horizons-cdn.hostinger.com/7a5ff1ea-2df9-4130-8f35-e960a9420c3c/658580b5504764c237dc0d4898868c1f.jpg" />
             </motion.div>
             
             <motion.div initial={{
@@ -59,7 +59,7 @@ const About = () => {
           }} className="space-y-6">
               <p className="text-white/80 text-lg leading-relaxed">I attend the University of Waterloo, majoring in Computational Mathematics with a minor in Computer Science. My interests lie in data engineering, software development, web development, data analysis, and UI/UX design.</p>
               
-              <p className="text-white/80 text-lg leading-relaxed">I'm a passionate Data Engineer with a keen eye for building robust data infrastructure and scalable solutions. My expertise lies in designing efficient data pipelines, optimizing database performance, and leveraging cutting-edge technologies to solve complex data challenges.</p>
+              <p className="text-white/80 text-lg leading-relaxed">I'm a passionate Software Engineer with a keen eye for building robust software solutions and scalable applications. My expertise lies in designing efficient architectures, optimizing performance, and leveraging cutting-edge technologies to solve complex development challenges.</p>
               
               <div className="grid grid-cols-2 gap-4 pt-6">
                 <motion.div whileHover={{

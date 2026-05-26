@@ -46,7 +46,7 @@ const Hero = () => {
             <a href="#projects">View My Work</a>
           </Button>
           <Button asChild className="px-8 py-3 md:px-10 md:py-4 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-700 hover:to-indigo-700 text-white text-lg rounded-full shadow-lg transition-all transform hover:scale-105">
-          <a href="https://drive.google.com/file/d/1tYLy2BOrrcP0C_471JmRzbMw5coA0OrQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1zUmNWfRrILPaYsB_0cVpD02GRw_ybz68/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               <Download className="mr-2 h-5 w-5" /> Resume
             </a>
           </Button>
